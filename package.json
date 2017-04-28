@@ -25,9 +25,10 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "async": "0.1.22",
+    "lodash": "^2.4.1",
+    "neo4j-driver": "^1.2.0",
     "neo4j-js": "git+https://github.com/natgeo/neo4j-js.git",
-    "q": "~0.9.7",
-    "lodash": "^2.4.1"
+    "q": "~0.9.7"
   },
   "devDependencies": {
     "mocha": "~1.15.1"
